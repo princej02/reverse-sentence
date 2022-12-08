@@ -3,7 +3,7 @@
 Reverses the words of a sentence.
 ## Install
 ```sh
-npm install prince_j/reverse-sentence
+npm install @prince_j/reverse-sentence
 ```
 ## API
 ```js
